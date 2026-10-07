@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective 5 Oct 26
+Effective 6 Oct 26
 
 PocketNotams does not collect, store or share any personal information. It has no accounts, no advertising, no analytics and no tracking, and it contains no third-party code.
 
